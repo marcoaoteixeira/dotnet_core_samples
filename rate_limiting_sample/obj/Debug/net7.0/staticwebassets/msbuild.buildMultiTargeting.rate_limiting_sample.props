@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rate_limiting_sample.props" />
+</Project>

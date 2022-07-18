@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xbrBdTnkFbUnNhaNNAhzYtLYpFqLDC0JR25GWDsjb0I=",
+  "Source": "rate_limiting_sample",
+  "BasePath": "_content/rate_limiting_sample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
